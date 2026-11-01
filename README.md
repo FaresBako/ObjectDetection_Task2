@@ -13,7 +13,7 @@ I gathered the data manually by taking a pic for each object, then labeled them 
 
 In running the model i used an external source to run the python code 
 
-the source: https://www.ejtech.io/code/yolo\_detect.py
+the source: https://www.ejtech.io/code/yolo/_detect.py
 
 
 
